@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Sourcery Institute][sourcery-institute logo]][Sourcery Institute]
+[![Sourcery Institute][sourcery institute logo]](https://www.sourceryinstitute.org)
 
 ROSE Installer
 ==============
@@ -36,10 +36,11 @@ herein.  Pull requests are more likely to get responses than submitted issues.
 
 Usage
 -----
+```bash
 git clone https://github.com/sourceryinstitute/rose-installer
 cd rose-installer
 ./install-rose.sh 
-
+```
 
 Contributing
 ------------
@@ -64,6 +65,4 @@ in this repository.
 [Ubuntu Desktop]: https://www.ubuntu.com/download/desktop
 [ROSE]: https://www.rosecompiler.org
 [VirtualBox]: https://www.virtualbox.org
-[sourcery-institute logo]: http://www.sourceryinstitute.org/uploads/4/9/9/6/49967347/sourcery-logo-rgb-hi-rez-1.png
-
-
+[sourcery institute logo]: http://www.sourceryinstitute.org/uploads/4/9/9/6/49967347/sourcery-logo-rgb-hi-rez-1.png
