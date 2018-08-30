@@ -24,7 +24,7 @@ on one platform for one combination of installation options on one particular
 day in the lunar cycle.  The platform was an [Ubuntu Desktop] 18.04.1 virtual 
 machine running inside the [VirtualBox] virtualization software.  The authors
 make no claims of portability, generality, or even reproducibility.   In fact,
-the first commit in this repository contains nothing more than this README.md
+the first commit in this repository contained nothing more than this README.md
 file and a verbatim transcript of the steps employed. Usage on other platforms
 with other installation flags or prerequisite software versions on other days in 
 the lunar cycle will surely require a multitude of changes to the scripts.
@@ -36,6 +36,8 @@ herein.  Pull requests are more likely to get responses than submitted issues.
 
 Usage
 -----
+To display the allowable arguments, execute `./install-rose.sh --help`.  To
+install [ROSE], try the following:
 ```bash
 git clone https://github.com/sourceryinstitute/rose-installer
 cd rose-installer
