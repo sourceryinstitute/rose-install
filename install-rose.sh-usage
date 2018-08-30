@@ -1,0 +1,4 @@
+  -d --debug                  Enable debug mode. 
+  -e --verbose                Enable verbose mode, print script as it is executed.
+  -h --help                   Print this page.
+  -j --num-threads [arg]      Number of threads to use when invoking make (Example: -j 4). Default="1"
