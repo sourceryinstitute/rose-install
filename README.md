@@ -18,7 +18,7 @@ ROSE Installer
 Motivation
 ----------
 
-The primary motivation for this repository is to capture the a specific
+The primary motivation for this repository is to capture a specific
 workflow that successfully installed the [ROSE] compiler infrastructure 
 on one platform for one combination of installation options on one particular
 day in the lunar cycle.  The platform was an [Ubuntu Desktop] 18.04.1 virtual 
@@ -51,7 +51,7 @@ pull requests to update the code.
 
 Acknowledgements
 ----------------
-The original author gratefully acknowledges the guidance of Craig Rasmussen of
+The original committer gratefully acknowledges the guidance of Craig Rasmussen of
 Lawrence Livermore National Laboratory for patiently providing the steps captured 
 in this repository. 
 
